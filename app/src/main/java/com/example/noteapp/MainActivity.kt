@@ -38,6 +38,6 @@ fun Greeting(name: String) {
 @Composable
 fun DefaultPreview() {
     NoteAppTheme {
-        Greeting("Hello")
+        Greeting("Hello Hi")
     }
 }
